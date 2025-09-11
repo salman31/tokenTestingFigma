@@ -15,7 +15,7 @@
   --color-blue-800: #1e40af;
   --color-blue-900: #1e3a8a;
   --color-blue-950: #172554;
-  --color-button-surface: var(--color-blue-900);
-  --color-button-stroke: var(--color-blue-900);
-  --color-button-text: var(--color-blue-50);
+  --color-button-surface: var(--color-blue-50);
+  --color-button-stroke: var(--color-blue-50);
+  --color-button-text: var(--color-blue-900);
 }
